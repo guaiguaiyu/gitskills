@@ -1,3 +1,4 @@
 
 # gitskills
-test
+test 
+manager
